@@ -3,9 +3,13 @@
 Power BI portfolio project based on a **synthetic** dataset simulating a **fitness products e-commerce store**
 (equipment, accessories, supplements) in Germany (2025).
 
-- **Demo (video):** [add link here]
-- **Report (PDF):** `report/Commercial_Performance_Marketing_KPIs_2025_Konrad_Kuleta.pdf`
-- **PBIX:** `report/Commercial_Performance_Marketing_KPIs_2025_Konrad_Kuleta.pbix` (if included)
+[![60s Demo Video](screenshots/01_revenue_overview.png)](TU_WKLEJ_LINK_DO_VIDEO)
+
+▶️ **60s Demo Video:** TU_WKLEJ_LINK_DO_VIDEO  
+📄 **Report PDF:** `report/Revenue_&_Marketing_KPI_Dashboard_Konrad_Kuleta.pdf`
+
+
+- **PBIX:** `report/Revenue_Marketing_KPI_Dashboard_Konrad_Kuleta.pbix.pbix` 
 - **DAX measures:** `dax/measures.md`
 
 ## What this dashboard answers
