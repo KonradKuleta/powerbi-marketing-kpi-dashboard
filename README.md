@@ -3,9 +3,9 @@
 Power BI portfolio project based on a **synthetic** dataset simulating a **fitness products e-commerce store**
 (equipment, accessories, supplements) in Germany (2025).
 
-[![60s Demo Video](screenshots/01_revenue_overview.png)](TU_WKLEJ_LINK_DO_VIDEO)
+[![60s Demo Video](screenshots/01_revenue_overview.png)](LINK)
 
-▶️ **60s Demo Video:** TU_WKLEJ_LINK_DO_VIDEO  
+▶️ **60s Demo Video:** LINK 
 📄 **Report PDF:** `report/Revenue_&_Marketing_KPI_Dashboard_Konrad_Kuleta.pdf`
 
 
@@ -18,7 +18,7 @@ Power BI portfolio project based on a **synthetic** dataset simulating a **fitne
 - How efficient are **paid (non-organic)** channels (ROAS, CPA, CAC, AOV)?
 - Which products drive revenue concentration?
 
-## KPI scope (important)
+## KPI scope 
 Efficiency KPIs (**ROAS, CPA, CAC, AOV**) are calculated for **Paid / Non-Organic channels** (Organic excluded)
 (e.g., Paid Search, Paid Social, Email, Affiliate).  
 Overall revenue visuals include **all channels** unless stated otherwise.
