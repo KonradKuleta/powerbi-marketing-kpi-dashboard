@@ -1,4 +1,4 @@
-# Revenue & Marketing KPI Dashboard | Germany (2025)
+# Revenue & Marketing KPI Dashboard
 
 Power BI portfolio project based on a **synthetic** dataset simulating a **fitness products e-commerce store**
 (equipment, accessories, supplements) in Germany (2025).
