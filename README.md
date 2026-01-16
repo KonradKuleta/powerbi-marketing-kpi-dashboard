@@ -3,9 +3,9 @@
 Power BI portfolio project based on a **synthetic** dataset simulating a **fitness products e-commerce store**
 (equipment, accessories, supplements) in Germany (2025).
 
-[![60s Demo Video](screenshots/01_revenue_overview.png)](https://www.loom.com/share/69e8e03ff3994a2a9e4d34848c4be12e)
+[![Demo Video](screenshots/01_revenue_overview.png)](https://www.loom.com/share/69e8e03ff3994a2a9e4d34848c4be12e)
 
-▶️ **60s Demo Video:** https://www.loom.com/share/69e8e03ff3994a2a9e4d34848c4be12e 
+▶️ **Demo Video:** https://www.loom.com/share/69e8e03ff3994a2a9e4d34848c4be12e 
 📄 **Report PDF:** `report/Revenue_&_Marketing_KPI_Dashboard_Konrad_Kuleta.pdf`
 
 
